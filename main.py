@@ -5,4 +5,4 @@ with open("Tips.txt", "r") as file:
         tip = line.strip()
         tips.append(tip)
 random_tip = random.choice(tips)
-print(tip)
+print(random_tip)
