@@ -1,40 +1,100 @@
-- "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
-- "The journey of a thousand miles begins with a single step." - Lao Tzu
-- "The most difficult thing is the decision to act, the rest is merely tenacity." - Amelia Earhart
-- "Don't let the fear of striking out hold you back." - Babe Ruth
-- "The way to get started is to quit talking and begin doing." - Walt Disney
-- "The most beautiful thing you can wear is confidence." - Blake Lively
-- "The most effective way to do it, is to do it." - Amelia Earhart
-- "The only way to do great work is to love what you do." - Steve Jobs
-- "Be yourself; everyone else is already taken." - Oscar Wilde
-- "You must be the change you wish to see in the world." - Mahatma Gandhi
-- "Happiness is not something ready made. It comes from your own actions." - Dalai Lama
-- "The only thing worse than being blind is having sight but no vision." - Helen Keller
-- "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
-- "Be the change that you wish to see in the world." - Mahatma Gandhi
-- "You miss 100% of the shots you don't take." - Wayne Gretzky
-- "You must do the things you think you cannot do." - Eleanor Roosevelt
-- "If you want to live a happy life, tie it to a goal, not to people or things." - Albert Einstein
-- "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
-- "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-- "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
-- "If you can dream it, you can do it." - Walt Disney
-- "Do what you can, with what you have, where you are." - Theodore Roosevelt
-- "It does not matter how slowly you go as long as you do not stop." - Confucius
-- "The secret of getting ahead is getting started." - Mark Twain
-- "Don't let anyone dull your sparkle." - Unknown
-- "Be kind whenever possible. It is always possible." - Dalai Lama
-- "Believe you can and you're halfway there." - Theodore Roosevelt
-- "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
-- "Don't count the days, make the days count." - Muhammad Ali
-- "The more that you read, the more things you will know. The more that you learn, the more places you'll go." - Dr. Seuss
-- "In order to succeed, we must first believe that we can." - Nikos Kazantzakis
-- "Whatever you are, be a good one." - Abraham Lincoln
-- "Be yourself; everyone else is already taken." - Oscar Wilde
-- "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose." - Dr. Seuss
-- "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
-- "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it." - Steve Jobs
-- "Life isn't about finding yourself. Life is about creating yourself." - George Bernard Shaw
-- "Your time is limited, don't waste it living someone else's life. Don't be trapped by dogma, which is living the result of other people's thinking. Don't let the noise of other's opinions drown your own inner voice. And most important, have the courage to follow your heart and intuition, they somehow already know what you truly want to become. Everything else is secondary." - Steve Jobs
-- "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." - Maya Angelou
-- "Whether you think you can or think you can't, either way, you are right" – Henry Ford
+Strive for a balanced diet that includes a variety of foods from all food groups.
+Focus on whole, unprocessed foods.
+Limit processed and fast foods.
+Be mindful of portion sizes to avoid overeating.
+Use smaller plates to help control portions.
+Read food labels to understand serving sizes.
+Aim for at least 5 servings of fruits and vegetables daily.
+Eat a rainbow of colorful produce to get a variety of nutrients.
+Fresh, frozen, and canned (without added sugar/salt) are all good choices.
+Choose whole grains over refined grains (e.g., whole wheat bread instead of white).
+Incorporate oats, quinoa, and brown rice into your meals.
+Opt for lean protein sources like poultry, fish, tofu, beans, and legumes.
+Limit red meat consumption and choose lean cuts.
+Include sources of healthy fats, like avocados, nuts, and olive oil, in your diet.
+Minimize saturated and trans fats found in fried and processed foods.
+Drink plenty of water throughout the day.
+Limit sugary drinks and excessive caffeine.
+Choose healthy snacks like nuts, yogurt, or fresh fruit.
+Avoid mindless snacking and emotional eating.
+Plan meals ahead of time to make healthier choices.
+Prepare healthy snacks to have on hand.
+Eat slowly and savor each bite.
+Pay attention to hunger and fullness cues.
+Start your day with a nutritious breakfast.
+Include protein, fiber, and healthy fats in your morning meal.
+Reduce added sugar intake by avoiding sugary cereals, drinks, and desserts.
+Read labels for hidden sugars (e.g., corn syrup, fructose).
+Limit salt by cooking with herbs and spices instead of excessive salt.
+Be aware of high-sodium processed foods.
+Choose healthier cooking methods like baking, grilling, or steaming.
+Limit frying and deep-frying.
+Consume alcohol in moderation, if at all.
+Be aware of the calories and potential health risks of alcohol.
+Identify and manage food allergies or sensitivities.
+Read labels for allergen information.
+Accommodate dietary restrictions and preferences.
+Explore alternative ingredients and recipes.
+Make healthy choices when dining out with friends and family.
+Look for lighter menu options.
+Keep a food journal to track your eating habits.
+Identify areas where you can improve.
+Find alternative ways to cope with stress and emotions instead of eating.
+Practice mindful stress reduction techniques.
+Consult a healthcare professional before taking supplements.
+Aim to get most nutrients from food.
+Follow proper food safety practices to prevent foodborne illnesses.
+Store, cook, and handle food safely.
+Read food labels to check for ingredients and nutritional information.
+Look for foods with shorter ingredient lists.
+Embrace seasonal fruits and vegetables for freshness and variety.
+Explore farmers' markets for local, seasonal produce.
+Reduce food waste by planning meals, using leftovers, and freezing excess.
+Compost food scraps when possible.
+Diversify protein sources for a wider range of nutrients.
+Try plant-based proteins like lentils and chickpeas.
+Choose cereals with whole grains and lower sugar content.
+Add fresh fruit to your cereal for extra flavor.
+Opt for low-fat or plant-based dairy alternatives.
+Fortified dairy alternatives can provide calcium and vitamin D.
+Include a variety of nuts and seeds in your diet for healthy fats.
+Watch portion sizes due to their calorie density.
+Cut down on soda and sugary drinks.
+Replace with water, herbal tea, or unsweetened alternatives.
+Enjoy dessert in moderation.
+Choose desserts made with healthier ingredients like fruit.
+Use herbs and spices to add flavor without extra calories or sodium.
+Experiment with different seasonings.
+Share meals with family or friends when possible.
+Encourage healthy eating habits in children.
+Ensure you're getting nutrients from all food groups.
+Don't exclude entire food groups unless medically necessary.
+Keep frozen vegetables on hand for quick, nutritious meals.
+They are often as healthy as fresh options.
+Prep vegetables and ingredients ahead of time for easy cooking.
+Make batches of healthy meals for busy days.
+Eat a small, healthy snack before going to a restaurant to curb overeating.
+Share dishes or take home leftovers to control portions.
+Increase fiber intake with whole grains, beans, and vegetables.
+Fiber helps with digestion and satiety.
+Make a shopping list and stick to it.
+Avoid shopping when hungry to reduce impulse purchases.
+Choose restaurants that offer healthier options.
+Check nutrition information when available.
+Occasionally enjoy your favorite indulgent foods in moderation.
+Balance indulgence with healthier meals.
+Pay attention to food temperature to avoid burning or undercooking.
+Use a food thermometer for meats.
+Use healthier cooking oils like olive, avocado, or coconut oil.
+Be mindful of the smoke point for different oils.
+Cook at home more often to control ingredients and portions.
+Experiment with new recipes and cuisines.
+Consider organic and non-GMO options if concerned about pesticides.
+Wash fruits and vegetables thoroughly.
+If you drink alcohol, do so responsibly.
+Beaware of your alcohol tolerance.
+Avoid heavy meals close to bedtime.
+Opt for a light, balanced snack if necessary.
+Present food attractively to make it more appealing.
+Use colorful, fresh ingredients.
+Choose foods with sustainability in mind, such as locally sourced and eco-friendly options.
